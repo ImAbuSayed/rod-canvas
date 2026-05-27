@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Rod Canvas
+
+This log tracks the cryptographic history and versioning for the song **Rod Canvas** (rod-canvas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T00:39:53.827793 | `v1` | `043e76ce0523397c86c250b5ee72c57a9efde85c17184a1ba6a14b1688796c35` | `56f39778578b380483c219733bb073fe81de493801e4f7bd1cd7478d3a5dcae5` | `2026-05-28_rod-canvas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
